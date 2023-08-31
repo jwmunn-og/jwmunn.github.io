@@ -17,26 +17,27 @@ Outside of work I spend as much time outside as possible hiking, camping and hav
 
 In June 2017, I graduated from [The&nbsp;Firehose&nbsp;Project](http://www.thefirehoseproject.com) coding bootcamp, where I apprenticed building full-stack web apps using ruby and javascript. Aftwerwards, they hired me as part-time technical support: answering student questions, debugging rails apps, and contributed to the curriculumn source code. I started as a contractor working for Microsoft Email Orchestrator, an internal transactional email service. In November of 2019, I was brought on as a full-time employee. My focus on MEO was to standardize our email templates across products and services at Microsoft, build out an internal Admin UI, and accesibility champion. In November of 2021, I moved to Microsoft Learn, where I focus on building out the UI and UX for users to better themselves by learning technologies and earning certifications. I'm also passionate about Design Systems and Accessibility and regularly contribute to Learn's internal design system and give knowledge share talks. Our stack includes typescript, webcomponents, and connecting with APIs built in ASP.Net Core and Azure Functions.
 
-Previously I co-founded a tweet to donate platform that raised over $100k for progressive organizations like ACLU, Planned Parenthood, and NRDC called <strong>Donald Donates</a>. We had over 400 users and were featured in Press from reputable organizations as well as gave an interview on Switchup about building out a product while in a coding bootcamp.
-
-Before pivoting my career to software engineering, I had a degree in Digital Multimedia and worked as a graphic designer for 9 years, eventually working as a Web Designer. Jobs ranged from screen printing, city government, e-commerce. I also worked as a freelance designer focused on web design and development and logos. Clients include multiple NFL players and Ad agencies.
+Previously I co-founded a tweet to donate platform that raised over $100k for progressive organizations like ACLU, Planned Parenthood, and NRDC called **Donald Donates**. We had over 400 users and were featured in Press from reputable organizations as well as gave an interview on Switchup about building out a product while in a coding bootcamp.
 
 <h4 class="press">
   <strong>Press:</strong>
   <br>
   <a href="http://bit.ly/DonaldDonates" target="blank">
-    <img src="images/logos/Newsweek_Logo.svg" alt="Newsweek Logo">
+    <img src="/images/logos/Newsweek_Logo.svg" alt="Newsweek Logo">
   </a>
   <a href="http://www.thedailybeast.com/donald-donates-lets-you-donate-to-causes-trump-hates-every-time-he-tweets" target="blank">
-    <img src="images/logos/dailybeast-logo.png" alt="The Daily Beast Logo">
+    <img src="/images/logos/dailybeast-logo.png" alt="The Daily Beast Logo">
   </a>
   <a href="http://elitedaily.com/news/politics/hate-trumps-tweets-new-app-turns-weapon/1911594/" target="blank">
-    <img src="images/logos/Elite_Daily_logo.svg" alt="Elite Daily Logo">
+    <img src="/images/logos/Elite_Daily_logo.svg" alt="Elite Daily Logo">
   </a>
   <a href="https://www.switchup.org/blog/student-spotlight-justin-munn-on-his-successful-app-donald-donates" target="blank">
-    <img src="images/logos/switchup-logo.png" alt="Switchup Logo">
+    <img src="/images/logos/switchup-logo.png" alt="Switchup Logo">
   </a>
 </h4>
+
+
+Before pivoting my career to software engineering, I had a degree in Digital Multimedia and worked as a graphic designer for 9 years, eventually working as a Web Designer. Jobs ranged from screen printing, city government, e-commerce. I also worked as a freelance designer focused on web design and development and logos. Clients include multiple NFL players and Ad agencies.
 
 #### Skills
 <span class="badge">Javascript</span>
