@@ -16,10 +16,9 @@
 title: Justin Munn
 email: contact@justinmunn.co
 description: > # this means to ignore newlines until "baseurl:"
-  Copyright © 2019 Justin Munn. Built with Jekyll and hosted on Github Pages.
+  Copyright © 2023 Justin Munn. Built with Jekyll and hosted on Github Pages.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://justinmunn.co" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jwmunn
+url: "https://justinmunn.co" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jwmunn
 
 # Build settings
