@@ -5,7 +5,10 @@ permalink: /about/
 ---
 
 
-![Justin and Finn](/../images/about-pic.jpg)
+<figure>
+  <img src="/images/about-pic.jpg" alt="Justin with his belgian shepherd Finn" />
+</figure>
+
 <br />
 <br/>
 
@@ -13,7 +16,7 @@ permalink: /about/
 
 I’m currently pushing code at Microsoft and living in Seattle, WA.
 
-Outside of work I spend as much time outside as possible hiking, camping and have a bit of a snowboarding problem. 
+Outside of work I spend as much time outside as possible with my family. I tend to have an abundance of hobbies and love all that the pacific northwest has to offer. I enjoy hiking, alpine climbing, mountaineering, camping and have a bit of a snowboarding problem. 
 
 In June 2017, I graduated from [The&nbsp;Firehose&nbsp;Project](http://www.thefirehoseproject.com) coding bootcamp, where I apprenticed building full-stack web apps using ruby and javascript. Aftwerwards, they hired me as part-time technical support: answering student questions, debugging rails apps, and contributed to the curriculumn source code. I started as a contractor working for Microsoft Email Orchestrator, an internal transactional email service. In November of 2019, I was brought on as a full-time employee. My focus on MEO was to standardize our email templates across products and services at Microsoft, build out an internal Admin UI, and accesibility champion. In November of 2021, I moved to Microsoft Learn, where I focus on building out the UI and UX for users to better themselves by learning technologies and earning certifications. I'm also passionate about Design Systems and Accessibility and regularly contribute to Learn's internal design system and give knowledge share talks. Our stack includes typescript, webcomponents, and connecting with APIs built in ASP.Net Core and Azure Functions.
 
@@ -69,4 +72,4 @@ I'm a born and bred Carolinan, in both South and North Carolina respectively. Wh
 
 From June 2014 to Jan 2018, I worked remotely full-time and followed my wife's nursing contracts around the US. During that time we moved every 4 months living from Delaware to Alaska and many places in between.
 
-In January 2018 we decided to settle in Seattle, WA with our cat and dog. I joined Microsoft as a contractor in April of 2018, converted to full-time in 2019 and have been pushing code in highly performant and visible products ever since.
+In January 2018 we decided to settle in Seattle, WA with our cat and dog. I joined Microsoft as a contractor in April of 2018, converted to full-time in 2019 and have been pushing code in highly performant and visible products ever since. If you've ever recieved an email from Microsoft, looked up documentation, visited the Azure website to learn about services, learned technology from Microsoft Learn or watched their on-demand shows and previous event videos then my fingerprints are on the code. I'm lucky to get to work with incredibly smart and passionate people building meaningful products to better the lives of others.
